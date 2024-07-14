@@ -1,12 +1,11 @@
-                                      # team8_Myntra_clone_project
+                                     Myntra Hackathon
    
    
-                           Team Name : team8_Myntra_clone_project
+                           Team Name : Code Noobs
                            
                            Team Members : 
 
-                                1. Hariom Tripathi
-                                2. Chirag Arora
-                                3. Rohit Kumar Gupta
-                                4. Shubham Sharma
-                                5. Md Dilnawaz Alam
+                                1. Muskan garg
+                                2. Bhumika Rao
+                                3. Roshi shrivastav
+                                
